@@ -28,3 +28,11 @@ Here are some ideas to get you started:
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> When I'm not coding, I am probably exploring new concepts and technologies, or take my guitar out to free my mind 😁. 
 
 <br>
+
+
+## Connect with me ^_^ 
+
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CalebJoshuaPaul)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/caleb-joshua/)
+
+<br>
