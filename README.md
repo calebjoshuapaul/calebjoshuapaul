@@ -1,3 +1,4 @@
+<--
 ### Hi there 👋
 
 
@@ -13,10 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-## Hi there! I'm Caleb Joshua 👋 ![dog says hi](<iframe src="https://giphy.com/embed/3oFzlW8dht4DdvwBqg" width="480" height="448" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justin-dog-3oFzlW8dht4DdvwBqg">via GIPHY</a></p>)
-
-![gif of a cat coding](https://giphy.com/embed/VekcnHOwOI5So)
-
-### About Me
-
+<h1 align="center">Hi, I'm Caleb Joshua!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<img align='right' src="https://c.tenor.com/_G4S27uG3loAAAAC/cat-work.gif" width="230">
