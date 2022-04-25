@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 <br>
 
-
 ## Connect with me ^_^ 
 
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CalebJoshuaPaul)
@@ -54,3 +53,17 @@ Here are some ideas to get you started:
 
 
 <br>
+
+
+## Tools I Use ✨
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![JSFiddle](https://img.shields.io/badge/JSFiddle-0084FF.svg?style=for-the-badge&logo=jsfiddle&logoColor=white)
+
+<br>
+
+## My GitHub Stats 😎
+![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebjoshuapaul&theme=cobalt&show_icons=true)
