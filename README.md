@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Hi there! I'm Caleb Joshua 👋 ![dog says hi](https://giphy.com/embed/3oFzlW8dht4DdvwBqg)
+## Hi there! I'm Caleb Joshua 👋 ![dog says hi](<iframe src="https://giphy.com/embed/3oFzlW8dht4DdvwBqg" width="480" height="448" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justin-dog-3oFzlW8dht4DdvwBqg">via GIPHY</a></p>)
 
 ![gif of a cat coding](https://giphy.com/embed/VekcnHOwOI5So)
 
