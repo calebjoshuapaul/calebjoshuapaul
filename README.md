@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 <br>
 
 ## My GitHub Stats 😎
-![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebjoshuapaul&theme=cobalt&show_icons=true)
+![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebjoshuapaul&theme=github_dark&show_icons=true)
