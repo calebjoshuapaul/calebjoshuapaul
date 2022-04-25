@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Caleb Joshua!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<img align='right' src="https://c.tenor.com/_G4S27uG3loAAAAC/cat-work.gif" width="230">
+<h1 align="center"><img src="https://media.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif" width="60">, I'm Caleb Joshua!<img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="50"></h1>
+<img align='right' src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="230">
 
 ## About me
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I'm an aspiring front end engineer :)<br>
