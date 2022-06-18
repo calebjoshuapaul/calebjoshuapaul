@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m currently learning Kubernetes, It is a very interesting technology! <br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m good at solving problems and hard working. <br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I'm currently looking for opportunities to collaborate and learn from experienced teams ✨.<br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> When I'm not coding, I am probably exploring new concepts and technologies, or take my out guitar to free my mind 😁. 
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> When I'm not coding, I am probably exploring new concepts and technologies, or take my out guitar and start jamming to free my mind 😁. 
 
 <br>
 
