@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"><img src="https://media.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif" width="60">, I'm Caleb Joshua!<img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="50"></h1>
-<img align='right' src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="230">
 
 ## About me
+
+<img align='right' src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="230">
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I'm a javascript developer :)<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I believe in learning by building and being consistent in what I do. <br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I love working with JavaScript technologies.😁<br>
