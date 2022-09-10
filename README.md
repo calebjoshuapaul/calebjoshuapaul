@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ## About me
 
 <img align='right' src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="230">
+<div>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I'm a javascript developer :)<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I believe in learning by building and being consistent in what I do. <br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I love working with JavaScript technologies.😁<br>
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I'm currently looking for opportunities to collaborate and learn from experienced teams ✨.<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> When I'm not coding, I am probably exploring new concepts and technologies, or take my out guitar and start jamming to free my mind 😁. 
-
+</div>
 <br>
 
 ## Connect with me ^_^ 
@@ -199,5 +200,5 @@ Here are some ideas to get you started:
   src="https://github-readme-stats.vercel.app/api?username=calebjoshuapaul&show_icons=true&theme=react&&hide_border=true"
 />
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?username=calebjoshuapaul&&theme=react&&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=calebjoshuapaul&&theme=react&&hide_border=true"
 />
