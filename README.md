@@ -190,6 +190,80 @@ Here are some ideas to get you started:
       <br /><strong>Jest</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/ruby/ruby-original.svg"
+        width="48"
+        height="48"
+        alt="Ruby"
+      />
+      <br /><strong>Ruby</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="NextJS"
+      />
+      <br /><strong>NextJS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/digitalocean/digitalocean-original.svg"
+        width="48"
+        height="48"
+        alt="Digital Ocean"
+      />
+      <br /><strong>Digital Ocean</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/googlecloud/googlecloud-original.svg"
+        width="48"
+        height="48"
+        alt="Google Cloud"
+      />
+      <br /><strong>Google Cloud</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/wordpress/wordpress-original.svg"
+        width="48"
+        height="48"
+        alt="Wordpress"
+      />
+      <br /><strong>Wordpress</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/php/php-original.svg"
+        width="48"
+        height="48"
+        alt="PHP"
+      />
+      <br /><strong>PHP</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/rails/rails-plain.svg"
+        width="48"
+        height="48"
+        alt="Rails"
+      />
+      <br /><strong>Rails</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+  </tr>
 </table>
 
 <br>
