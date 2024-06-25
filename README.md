@@ -274,6 +274,15 @@ Here are some ideas to get you started:
       />
       <br /><strong>Golang</strong>
     </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Golang"
+      />
+      <br /><strong>Golang</strong>
+    </td>
   </tr>
 </table>
 
