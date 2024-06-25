@@ -279,9 +279,9 @@ Here are some ideas to get you started:
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"
         width="48"
         height="48"
-        alt="Golang"
+        alt="Tailwind"
       />
-      <br /><strong>Golang</strong>
+      <br /><strong>Tailwind CSS</strong>
     </td>
   </tr>
 </table>
