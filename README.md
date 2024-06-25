@@ -108,7 +108,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
         width="48"
         height="48"
         alt="Bootstrap"
@@ -155,7 +155,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"
         width="48"
         height="48"
         alt="Firebase"
@@ -247,7 +247,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/rails/rails-plain.svg"
+        src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/rails/rails-plain-wordmark.svg"
         width="48"
         height="48"
         alt="Rails"
@@ -262,6 +262,17 @@ Here are some ideas to get you started:
         alt="Python"
       />
       <br /><strong>Python</strong>
+    </td>
+  </tr>
+  <tr>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Golang"
+      />
+      <br /><strong>Golang</strong>
     </td>
   </tr>
 </table>
